@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Xmind-Zen-Crack
-Xmind Zen破解
-=======
 # Xmind_Zen_Crack
 Xmind Zen本地破解脚本
 ## 说明
@@ -13,4 +9,3 @@ Xmind Zen本地破解脚本
  * 去除导出PNG文件时的水印
 ## 使用说明
 将main.py和crack.py复制到Xmind Zen的安装目录下，然后通过python3 main.py运行该脚本即可。
->>>>>>> first submit
