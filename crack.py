@@ -1,8 +1,5 @@
-# coding=utf-8
-
-
 class Crack(object):
-    def __init__(self, f_name):
+    def __init__(self, f_name: str):
         self.f_name = f_name
 
     # 替换掉str
